@@ -1,1 +1,1 @@
-# manit.github.io
+# manit
